@@ -1,0 +1,7 @@
+Phase 0 - Dataset collection from MJ
+Phase 1 - Exploratory Data Analysis
+Phase 2 - ML Model Development
+Phase 3 - ML Model Web Serving
+Phase 4 - USSD Planning and Development
+Phase 5 - USSD Deployment using AT Gateway and Testing
+Phase 6 - Documentation and Presentation 
